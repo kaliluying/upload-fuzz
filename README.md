@@ -1,5 +1,11 @@
 # upload-fuzz-dic-builder 上传漏洞fuzz字典生成脚本
 
+原项目地址：https://github.com/c0ny1/upload-fuzz-dic-builder
+
+原项目为python2的版本，本项目仅将他转换成python3的版本
+
+一下为原项目的README
+
 ![生成的字典](doc/upload_fuzz_dic.png)
 
 ## 一、uasg
